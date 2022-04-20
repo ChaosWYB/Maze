@@ -1,0 +1,3 @@
+﻿  maze.cpp
+C:\Users\dell\source\repos\二维迷宫\maze.cpp(63,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  二维迷宫.vcxproj -> C:\Users\dell\source\repos\二维迷宫\Debug\二维迷宫.exe
