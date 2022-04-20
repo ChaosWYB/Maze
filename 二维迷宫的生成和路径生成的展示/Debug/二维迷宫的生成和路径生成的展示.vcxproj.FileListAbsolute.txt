@@ -1,0 +1,2 @@
+C:\Users\dell\source\repos\二维迷宫的生成和路径生成的展示\Debug\二维迷宫的生成和路径生成的展示.exe
+C:\Users\dell\source\repos\二维迷宫的生成和路径生成的展示\Debug\二维迷宫的生成和路径生成的展示.pdb
